@@ -3,7 +3,7 @@ import requests
 
 # GitHub 레포지토리 정보
 GITHUB_USER = 'ahnsam207'  # GitHub 사용자 이름
-REPO_NAME = 'biz_excel'      # 레포지토리 이름
+REPO_NAME = 'test'      # 레포지토리 이름
 FOLDER_PATH = 'upload'        # 폴더 경로 (예: 'src' 또는 'docs')
 
 # GitHub API URL
